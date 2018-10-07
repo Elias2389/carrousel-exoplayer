@@ -1,0 +1,56 @@
+[{
+  "title": "Carousel thumb",
+  "type": "thumb",
+  "items": [
+    {
+      "title": "La Playa",
+      "url": "http://placeimg.com/640/480/any",
+      "video": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "title": "Peligro en Bangkok",
+      "url": "http://placeimg.com/640/480/any",
+      "video": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "title": "Todas Contra Jhon",
+      "url": "http://placeimg.com/640/480/any",
+      "video": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "title": "Quisiera ser millonario",
+      "url": "http://placeimg.com/640/480/any",
+      "video": null
+    }
+  ]
+
+},
+{
+  "title": "Carousel Poster",
+  "type": "poster",
+  "items": [
+    {
+      "title": "La Playa",
+
+      "url": "http://placeimg.com/320/480/any",
+      "video": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "title": "Peligro en Bangkok",
+      "url": "http://placeimg.com/320/480/any",
+      "video": "http//download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "title": "Todas Contra Jhon",
+      "url": "http://placeimg.com/320/480/any",
+      "video": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "title": "Quisiera ser millonario",
+      "url": "http://placeimg.com/320/480/any",
+      "video": null
+    }
+  ]
+}
+
+]
